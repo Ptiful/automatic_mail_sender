@@ -34,8 +34,9 @@ LOGIN=your mail address
 4. -In the body of the message in main.py:  
 -Change all "XXXXXX" with your personal data.
 
-5. -Insert in "Documents" the attachments you want to use and be sure to correctly insert their path at line 62 and 63.  
--Be sure to correctly insert the json path at line 18 and 103.
+5. -Insert in "Documents" the attachments you want to use and be sure to correctly insert their path at line 62 and 63. 
+ 
+6. -Be sure to correctly insert the json path at line 18 and 103.
 
 ## How to use it
 
